@@ -4,24 +4,15 @@ An end-to-end **real-time Data Engineering platform** that simulates telecom tow
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project demonstrates how to build a **production-grade streaming data platform** powered by simulated APIs.
-
 The system generates real-time telecom telemetry data and processes it to:
 
 * Monitor system behavior continuously
 * Detect anomalies using Machine Learning
 * Trigger real-time alerts
 * Enable live dashboarding
-
-The architecture follows:
-
-* **Streaming-first architecture**
-* **Medallion Architecture (Bronze → Silver → Gold)**
-* **Lakehouse design using Apache Iceberg**
-
----
 
 ## 🏗️ Architecture
 
