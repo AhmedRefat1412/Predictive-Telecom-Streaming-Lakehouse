@@ -82,13 +82,7 @@ To ensure low-latency alerting:
 * Custom conditions applied
 * Sends alerts via **Telegram Bot**
 
-### ✅ لماذا Pipeline منفصل؟
-
-* تقليل latency
-* عدم الاعتماد على Spark micro-batch delay
-* Alerting في شبه real-time حقيقي
-
----
+------
 
 ## 🏗️ Lakehouse Architecture
 
